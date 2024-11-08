@@ -1,0 +1,41 @@
+header{
+    background: #000B58;
+    padding: 10px 10px;
+    text-align: center;
+    color: #FFF4B7;
+    font-size: 25px;
+    border-radius: 20px;
+}
+a[target="_blank"]{
+    color: #006A67;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    background: #003161;
+    color: #FFF4B7;
+    text-align: center;
+    padding: 20px 20px;
+    margin: 30px 60px;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    border:#006A67, solid 10px;
+    display: inline-block;
+
+}
+
+footer{
+    background: #000B58;
+    color: #FFF4B7;
+    text-align: center;
+    padding: 20px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container h2{
+    font-size: 2em;
+}
+
+a:hover {
+    color: #FFF4B7;
+}
+
+
